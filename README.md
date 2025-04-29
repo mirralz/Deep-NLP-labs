@@ -5,7 +5,7 @@
 
 ## Содержание
 
-### [1. Tokenizer + Naive Bayes Classification](nlp-hw1-tokenizer/)
+### [1. Tokenizer + Naive Bayes Classification](tokenizer_downsampling/)
 Построение пайплайна классификации текста с использованием кастомного токенизатора (по архитектуре Карпатного). Балансировка классов с помощью downsampling, параллельный препроцессинг (`pandarell`), обучение наивного байесовского классификатора и анализ влияния размера словаря на качество модели.
 
 ### [2. Sentiment Classification: KNN vs SVM vs Random Forest](sentiment-classification/)
