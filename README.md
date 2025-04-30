@@ -14,3 +14,5 @@
 ### [3. Topic Modeling on Lemmatized Texts](topic-modeling-lda/)
 Построение тематической модели на лемматизированных текстах. 
 
+### [4. Text Classification on Fake News Dataset: MLP vs CNN](text-classification-embeddings/README.md)
+Классификация текстов с использованием эмбеддингов. Сравнение MLP (с dropout и batchnorm) и сверточной CNN-модели. 
