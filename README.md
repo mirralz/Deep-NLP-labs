@@ -14,9 +14,9 @@
 ### [3. Topic Modeling on Lemmatized Texts](topic-modeling-lda/)
 Построение тематической модели на лемматизированных текстах. 
 
-### [4. Text Classification on Fake News Dataset: MLP vs CNN](text-classification-embeddings/README.md)
+### [4. Text Classification on Fake News Dataset: MLP vs CNN](text-classification-embeddings/)
 Классификация текстов с использованием эмбеддингов. Сравнение MLP (с dropout и batchnorm) и сверточной CNN-модели. 
 
 
-### [5. Classical NLP & Word Embedding Translator](classical-nlp/README.md)
+### [5. Classical NLP & Word Embedding Translator](classical-nlp/)
 Работа с текстами до эпохи трансформеров: ручной отбор признаков, лемматизация, векторизация (`CountVectorizer`, `TF-IDF`) и реализация word-by-word переводчика на основе эмбеддингов.
