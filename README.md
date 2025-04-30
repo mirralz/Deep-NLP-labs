@@ -16,3 +16,7 @@
 
 ### [4. Text Classification on Fake News Dataset: MLP vs CNN](text-classification-embeddings/README.md)
 Классификация текстов с использованием эмбеддингов. Сравнение MLP (с dropout и batchnorm) и сверточной CNN-модели. 
+
+
+### [5. Classical NLP & Word Embedding Translator](classical-nlp/README.md)
+Работа с текстами до эпохи трансформеров: ручной отбор признаков, лемматизация, векторизация (`CountVectorizer`, `TF-IDF`) и реализация word-by-word переводчика на основе эмбеддингов.
